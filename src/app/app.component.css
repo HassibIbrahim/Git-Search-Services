@@ -1,0 +1,15 @@
+h1 {
+  padding-top: 40vh;
+  text-align: left;
+  padding-left: 13vw;
+  font-size: 7.5vh;
+  color: rgba(63, 1, 1, 0.863);
+  background-color: aquamarine
+}
+
+h2 {
+  text-align: left;
+  padding-left: 13vw;
+  color: rgb(4, 91, 128);
+  background-color: aqua
+}

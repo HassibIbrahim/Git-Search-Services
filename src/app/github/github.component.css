@@ -1,0 +1,13 @@
+input {
+    width:75%;
+    height:8vh;
+    font-size: 2em;
+    border: none;
+    background-color: khaki
+  }
+  button{
+    height:8vh;
+    margin-top: -2vh;
+    background-color: darkkhaki
+  }
+  

@@ -28,7 +28,7 @@ export class GithubComponent implements OnInit {
     this.http.get<ApiResponse>('https://api.github.com/users/' + user + '?access_token=284a70214412bb8997800d2a05b0635cf59d5e71').subscribe(data => {
         this.search = new Search(data.login, data.name, data.repos_url, data.avatar_url);
       });
-     this.repos = this.searchService.githubRequest(user);
+      this.repos = this.searchService.githubRequest(user);
   }
 
 }

@@ -1,27 +1,46 @@
-# Git
+# Github Search
+#### An application to search Github Users and Repositories
+#### By Hassib Ibrahim
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
+## Description
+A website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Setup/Installation Requirements
+1. Open the webpage (https://hassibibrahim.github.io/githubSearch) and view the landing page with info on the site's creator.
+2. Tap the 'Search' on the nav bar to move to search page.
+3. Once on the search page toggle between 'User Profile' & 'Repository' depending on the type of search you want to carry out.
+4. Enter Search term in the input box and tap the Search button to initiate search.
+4. Results will appear, tap on the result that interests you to further explore that User or Repository.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Specifications
+1. Visit creator's repos from landing page.
+2. Search Github username.
+3. View Github user's description, repositories and other basic info.
+4. Search Github repository.
+5. View Github repository's creator and age.
 
-## Build
+## Known Bugs & Missing Features
+None at the moment.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Technologies & Resources Used
+Technologies used include:
+* HTML
+* CSS
+* Bootstrap
+* TypeScript
+* Angular (This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6
+)
 
-## Running unit tests
+Resources used include:
+* Google Fonts - Source of fonts used in the project.
+* uiGradients - Source of the CSS gradient used as background in the project.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Support and contact details
+For more info or assistance, please contact:
 
-## Running end-to-end tests
+Hassib Ibrahim - ihassib@gmail.com
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### License
+MIT©
